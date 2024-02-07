@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **tanvirahmedabd1@gmail.com** (Don't)
+- 📫 How to reach me (Don't) **tanvirahmedabd1@gmail.com**
 
 - ⚡ Fun fact **water == wet**
 
